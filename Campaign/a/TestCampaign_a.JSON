@@ -1,0 +1,13 @@
+[
+    {
+      "campaign_name": "test campaign demo a",
+      "campaign_timeout": "3600",
+      "testcases": [
+          {"case_name": "test case demo a 1", "case_path": "/path/to/testcase_demo_a_1", "case_timeout": "11"},
+          {"case_name": "test case demo a 2", "case_path": "/path/to/testcase_demo_a_2", "case_timeout": "12"},
+          {"case_name": "test case demo a 3", "case_path": "/path/to/testcase_demo_a_3", "case_timeout": "13"},
+          {"case_name": "test case demo a 4", "case_path": "/path/to/testcase_demo_a_4", "case_timeout": "14"},
+          {"case_name": "test case demo a 5", "case_path": "/path/to/testcase_demo_a_5", "case_timeout": "15"}
+      ]
+    }
+  ]

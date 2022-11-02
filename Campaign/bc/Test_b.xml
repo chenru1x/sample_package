@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Campaign name="test campaign demo b" timeout="3600">
+  <TestCases>
+    <TestCase name="test case demo b 1" path="/path/to/testcase_demo_b_1" timeout="11"/>
+    <TestCase name="test case demo b 2" path="/path/to/testcase_demo_b_2" timeout="12"/>
+    <TestCase name="test case demo b 3" path="/path/to/testcase_demo_b_3" timeout="13"/>
+    <TestCase name="test case demo b 4" path="/path/to/testcase_demo_b_4" timeout="14"/>
+    <TestCase name="test case demo b 5" path="/path/to/testcase_demo_b_5" timeout="15"/>
+  </TestCases>
+</Campaign>

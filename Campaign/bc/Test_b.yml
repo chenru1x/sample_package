@@ -1,0 +1,19 @@
+campaign:
+    name: test campaign demo b
+    timeout: 3600
+testcase:
+    - name: test case demo b 1
+      path: /path/to/testcase_demo_b_1
+      timeout: 11
+    - name: test case demo b 2
+      path: /path/to/testcase_demo_b_2
+      timeout: 12
+    - name: test case demo b 3
+      path: /path/to/testcase_demo_b_3
+      timeout: 13
+    - name: test case demo b 4
+      path: /path/to/testcase_demo_b_4
+      timeout: 14
+    - name: test case demo b 5
+      path: /path/to/testcase_demo_b_5
+      timeout: 15
