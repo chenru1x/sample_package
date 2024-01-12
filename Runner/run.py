@@ -12,7 +12,7 @@ print('this is a test to generate result')
 i = 0
 while i <= 3:
     print("Test is on going {}s".format(i+1))
-    # time.sleep(1)
+    time.sleep(1)
     i += 1
 
 with open(result_file, 'w') as csvfile:
